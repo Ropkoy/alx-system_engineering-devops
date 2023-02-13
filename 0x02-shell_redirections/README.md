@@ -1,1 +1,2 @@
-Confused smiley script
+#!/bin/bash
+echo "confused smiley"
